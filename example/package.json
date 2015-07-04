@@ -1,0 +1,15 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "fly-example",
+  "main": "index.js",
+  "scripts": {
+    "test": "fly"
+  },
+  "author": "azu",
+  "license": "MIT",
+  "devDependencies": {
+    "fly": "^0.1.2",
+    "fly-textlint": "file:.."
+  }
+}

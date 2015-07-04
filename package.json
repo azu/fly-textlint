@@ -1,0 +1,22 @@
+{
+  "name": "fly-textlint",
+  "version": "1.0.0",
+  "description": "fly plugin for textlint.",
+  "main": "fly-textlint.js",
+  "files": [
+    "fly-textlint.js"
+  ],
+  "scripts": {
+    "example": "(cd example && npm test)"
+  },
+  "keywords": [
+    "textlint",
+    "fly",
+    "plugin"
+  ],
+  "author": "azu",
+  "license": "MIT",
+  "dependencies": {
+    "textlint": "^3.1.2"
+  }
+}
