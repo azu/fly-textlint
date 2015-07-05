@@ -1,6 +1,6 @@
 {
   "name": "fly-textlint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fly plugin for textlint.",
   "main": "fly-textlint.js",
   "files": [
