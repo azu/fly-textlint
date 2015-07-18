@@ -12,6 +12,7 @@
   "keywords": [
     "textlint",
     "fly",
+    "fly-plugin",
     "plugin"
   ],
   "author": "azu",
